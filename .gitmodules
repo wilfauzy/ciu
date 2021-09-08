@@ -1,0 +1,4 @@
+[submodule "themes/nyerat"]
+	path = themes/nyerat
+	url = https://github.com/datakrama/nyerat-hugo-theme.git
+	branch = main
