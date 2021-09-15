@@ -1,0 +1,13 @@
+main:
+  - identifier: cms
+    name: CMS
+    pageRef: /cms
+    params:
+      hidden: true
+  - identifier: pages
+    name: Pages
+    pageRef: /
+  - identifier: authors
+    parent: pages
+    name: Authors
+    pageRef: /authors
