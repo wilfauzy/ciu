@@ -1,0 +1,10 @@
+[build]
+  command = "hugo --minify"
+  publish = "public"
+
+[build.environment]
+  GO_VERSION = "1.17"
+  HUGO_VERSION = "0.88.1"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
