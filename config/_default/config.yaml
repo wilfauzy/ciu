@@ -35,3 +35,4 @@ title: Nyerat Starter
 baseURL: /
 sectionPagesMenu: main
 paginate: 8
+disqusShortname: ""
