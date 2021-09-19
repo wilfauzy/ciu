@@ -28,4 +28,9 @@ Netlify account email.
 
 Now you're all set, and you can start adding content!
 
+## Documentation
+
+You can always read the documentation for Nyerat theme at
+<https://datakrama.com/work/hugo-themes/nyerat/docs>.
+
 [Nyerat]: https://datakrama.com/work/hugo-themes/nyerat
