@@ -2,4 +2,4 @@ module github.com/datakrama/nyerat-hugo-theme-starter
 
 go 1.17
 
-require github.com/datakrama/nyerat-hugo-theme v0.4.2 // indirect
+require github.com/datakrama/nyerat-hugo-theme v0.4.3 // indirect

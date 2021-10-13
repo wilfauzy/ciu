@@ -20,3 +20,5 @@ github.com/datakrama/nyerat-hugo-theme v0.4.1 h1:mp3fv0pYJxu5TeWvVqni4kNKeL3QZFR
 github.com/datakrama/nyerat-hugo-theme v0.4.1/go.mod h1:muTNR5coLwgAPzR90YUaF2y8XIY+nLNFUuR3HvOlhIQ=
 github.com/datakrama/nyerat-hugo-theme v0.4.2 h1:UmWQgnDp3Kg9q+TzWQwHSvND+o3odPU1z4NqVxyD+p4=
 github.com/datakrama/nyerat-hugo-theme v0.4.2/go.mod h1:hB2zXguzpo/2zMPAvYrIfMHr2GppQhmBFyqu7KflmXw=
+github.com/datakrama/nyerat-hugo-theme v0.4.3 h1:SiGbI/QKRHOYf42O0dxGxm5pSHockcjw8O7eknzAZMo=
+github.com/datakrama/nyerat-hugo-theme v0.4.3/go.mod h1:hB2zXguzpo/2zMPAvYrIfMHr2GppQhmBFyqu7KflmXw=
